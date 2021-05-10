@@ -60,5 +60,6 @@ THEN I find that the app uses Redux instead of the Context API
 
   If you have any further questions regarding this project please email: [cj1988333@hotmail.com](mailto:cj1988333@hotmail.com?subject=[Question]shop-shop.
 
-![download app](https://github.com/cjsmith1988/Book-Search-Engine/blob/master/assets/images/searchScreen.png?raw=true)
-![application screen shot](https://github.com/cjsmith1988/Book-Search-Engine/blob/master/assets/images/savedScreen.png?raw=true)
+![Home Page](https://github.com/cjsmith1988/shop-shop/blob/main/client/public/images/ScreenHome.png?raw=true)
+![Single Product Details](https://github.com/cjsmith1988/shop-shop/blob/main/client/public/images/ScreenDetail.png?raw=true)
+![Single Product Details](https://github.com/cjsmith1988/shop-shop/blob/main/client/public/images/ScreenStripe.png?raw=true)
