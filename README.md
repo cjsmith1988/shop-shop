@@ -58,7 +58,7 @@ THEN I find that the app uses Redux instead of the Context API
 
   View my: [GitHub profile](https://www.github.com/cjsmith1988)
 
-  If you have any further questions regarding this project please email: [cj1988333@hotmail.com](mailto:cj1988333@hotmail.com?subject=[Question]shop-shop.
+  If you have any further questions regarding this project please email: [cj1988333@hotmail.com](mailto:cj1988333@hotmail.com?subject=[Question]shop-shop).
 
 ![Home Page](https://github.com/cjsmith1988/shop-shop/blob/main/client/public/images/ScreenHome.png?raw=true)
 ![Single Product Details](https://github.com/cjsmith1988/shop-shop/blob/main/client/public/images/ScreenDetail.png?raw=true)
