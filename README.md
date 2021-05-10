@@ -11,9 +11,9 @@ e-commerce MERN Stack
 
 **Installation**: 	
 
-Access Github repository here: https://github.com/cjsmith1988/Book-Search-Engine/
+Access Github repository here: https://github.com/cjsmith1988/shop-shop/
 
-Access live App here: https://curts-book-search.herokuapp.com
+Access live App here: https://curts-ecommerce.herokuapp.com/
 
 **Usage**: This was used for testing MERN stack, GraphQL API, Redux, and stripe techniques.
 
