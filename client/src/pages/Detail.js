@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { useQuery } from '@apollo/react-hooks';
-import { useStoreContext } from "../utils/GlobalState";
+//import { useStoreContext } from "../utils/GlobalState";
+import {useSelector, useDispatch } from 'react-redux';
 import { QUERY_PRODUCTS } from "../utils/queries";
 import { idbPromise } from "../utils/helpers";
 import Cart from '../components/Cart';
@@ -14,7 +15,11 @@ import {
 } from '../utils/actions';
 
 function Detail() {
-  const [state, dispatch] = useStoreContext();
+  //updated for redux
+  //const [state, dispatch] = useStoreContext();
+
+  const state = useSelector(state => state);
+  const dispatch = useDispatch();
 
   const { id } = useParams();
 
